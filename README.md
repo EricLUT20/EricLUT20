@@ -19,13 +19,9 @@ I'm Eric, a Computer Science graduate from LUT University and a current Master�
 
 🔹 Social Media Web Application (MEAN-Stack)
 
-Tech Stack: MongoDB, Express.js, AngularJS, Node.js
-
 Repository link: https://github.com/EricLUT20/Full-stack-Course
 
 🔹 Dating App (MERN-Stack)
-
-Tech Stack: MongoDB, Express.js, React.js, Node.js
 
 Repository link: https://github.com/EricLUT20/MERN-Project
 
