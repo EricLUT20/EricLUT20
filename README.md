@@ -19,11 +19,35 @@ I'm Eric, a Computer Science graduate from LUT University and a current Master�
 
     Software Security, Machine Learning, Full-Stack Development, Cloud Technologies
 
-🛠️ What I'm Working On
+🌍 Projects Showcase
 
-    Developing personal projects in full-stack web development and system programming
-    Experimenting with security tools and penetration testing
-    Expanding my knowledge of cloud computing and DevOps
+Here are some of my full-stack projects:
+🔹 Social Media Web Application (MEAN-Stack)
+
+Tech Stack: MongoDB, Express.js, AngularJS, Node.js
+
+    A Twitter/X-like application built using the MEAN stack.
+    Implemented user authentication with JWT for secure login/logout functionality.
+    Designed a dynamic timeline feature and user profiles with an engaging UI.
+    Developed a robust search feature allowing users to easily find others.
+
+🔹 Dating App (MERN-Stack)
+
+Tech Stack: MongoDB, Express.js, React.js, Node.js
+
+    A Tinder-like dating app created with the MERN stack.
+    Users can create accounts, edit profiles, and swipe for potential matches.
+    Integrated JWT-based authentication for secure user sessions.
+    Developed an intuitive, responsive UI for smooth mobile-first experiences.
+
+🔹 Parallelized Unix System Commands Project
+
+Tech Stack: C, Linux Utilities
+
+    Redeveloped essential Unix system commands like zip, unzip, grep, and cat.
+    Implemented parallel processing to accelerate compression and decompression tasks.
+    Integrated Run-Length Encoding (RLE) in the zip functionality for better data compression.
+    Optimized performance by utilizing multiple CPU cores for file handling tasks.
 
 📫 How to Reach Me
 
