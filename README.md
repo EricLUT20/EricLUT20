@@ -15,10 +15,6 @@ I'm Eric, a Computer Science graduate from LUT University and a current Master�
     Databases: MongoDB, PostgreSQL, MySQL, SQLite
     Cloud & DevOps: Google Cloud Platform (GCP), AWS, Kubernetes, Terraform
 
-🔐 Interests
-
-    Software Security, Machine Learning, Full-Stack Development, Cloud Technologies
-
 🌍 Projects Showcase
 
 🔹 Social Media Web Application (MEAN-Stack)
