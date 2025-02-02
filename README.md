@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Eric, a Computer Science graduate from LUT University and a current Master’s student in Software Engineering. I'm passionate about software development, cybersecurity, and building efficient and scalable applications.
+I'm a Computer Science graduate from LUT University and a current Master’s student in Software Engineering. I'm passionate about software development, cybersecurity, and building efficient and scalable applications.
 
 🎓 Education
 
