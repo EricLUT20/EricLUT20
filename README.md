@@ -13,7 +13,7 @@ I'm Eric, a Computer Science graduate from LUT University and a current Master‚Ä
     Languages: Python, C, JavaScript, TypeScript, SQL, Java
     Frameworks & Libraries: React.js, AngularJS, Express.js, Node.js, Django
     Databases: MongoDB, PostgreSQL, MySQL, SQLite
-    Cloud & DevOps: Google Cloud Platform (GCP), AWS, Kubernetes, Terraform
+    Cloud & DevOps: Google Cloud Platform (GCP), AWS, Kubernetes
 
 üåç Projects Showcase
 
