@@ -27,5 +27,5 @@ I'm Eric, a Computer Science graduate from LUT University and a current Master�
 
 📫 How to Reach Me
 
-📧 Email: ericthomasliski@gmail.com
-🏗️ GitHub: EricLUT20
+    📧 Email: ericthomasliski@gmail.com
+    🏗️ GitHub: EricLUT20
