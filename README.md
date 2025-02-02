@@ -2,6 +2,8 @@ Hi there! 👋
 
 I'm a Computer Science graduate from LUT University and a current Master’s student in Software Engineering. I'm passionate about software development, cybersecurity, and building efficient and scalable applications.
 
+---
+
 🎓 Education
 
 🔹 M.Sc. in Software Engineering (Expected 2026) – LUT University
@@ -9,6 +11,8 @@ I'm a Computer Science graduate from LUT University and a current Master’s stu
 🔹 B.Sc. in Computer Science (Graduated 2024) – LUT University
 
 🔹 Completed Cyber Security Base courses at the University of Helsinki
+
+---
 
 💻 Tech Stack
 
@@ -20,11 +24,15 @@ I'm a Computer Science graduate from LUT University and a current Master’s stu
 
 🔹 Cloud & DevOps: Google Cloud Platform (GCP), AWS, Kubernetes
 
+---
+
 🌍 Projects Showcase
 
 🔹 Social Media Web Application (MEAN-Stack) [https://github.com/EricLUT20/Full-stack-Course]
 
 🔹 Dating App (MERN-Stack) [https://github.com/EricLUT20/MERN-Project]
+
+---
 
 📫 How to Reach Me
 
