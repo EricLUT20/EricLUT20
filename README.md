@@ -22,8 +22,6 @@ I'm a Computer Science graduate from LUT University and a current Master’s stu
 
 🔹 Databases: MongoDB, PostgreSQL, MySQL, SQLite
 
-🔹 Cloud & DevOps: Google Cloud Platform (GCP), AWS, Kubernetes
-
 ---
 
 🌍 Projects Showcase
